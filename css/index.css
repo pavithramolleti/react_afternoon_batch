@@ -1,0 +1,36 @@
+/*p{
+	background-color: red;
+	color:blue;
+}*/
+/* css comments*/
+/*#sample{
+	background-color: yellow;
+	color: red
+}
+/*class selector*/
+/*.sample{
+	background-color: red;
+	color: yellow
+}
+/*group selector*
+h4,p{
+	background-color: green;
+	color:blue;
+}
+*{
+	text-align: center;
+}*/
+
+body{
+	background-color: #4D9510;
+}
+main{
+	background-color: #7AAB52;
+	margin:5%;
+	display: flex;
+	justify-content: space-around;
+}
+section{
+	background-color: #30C591;
+	margin:5%;
+}
